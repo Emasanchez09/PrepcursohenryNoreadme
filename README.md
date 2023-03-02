@@ -1,2 +1,2 @@
-# Prepcursohenry
+# Prepcurso-Henry
 este es un repositorio de prueba del curso de henry modulo 2
